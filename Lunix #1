@@ -1,0 +1,6 @@
+project:
+  name:"Lunix"
+  objective of project:'Create Lunix Software'
+  fav_num: 1e+10
+  status: 'building'
+  var:< fav-num
